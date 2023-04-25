@@ -1,5 +1,3 @@
-import ProductCard from "./productCard";
-
 const AllProducts = (props) =>{
 
     const productList = [
