@@ -1,7 +1,4 @@
-import AllProducts from "./AllProducts";
-import productList from '../../productJSON/products.json'
 import { useEffect, useState } from "react";
-import Image from "next/image";
 
 const FetchProducts = () =>{   
 
